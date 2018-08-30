@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Week 1 (27/08)"
+date:   2018-08-30 15:22:03 -0300
+categories: update
+---
+This first week was all about setting environment up: cloning Kernel codebase, setting up NeoMutt (for later usage), installing Linux (Arch distro) on Qemu and, finally, trying to build Kernel from scratch.
+
+As a MacOS user, I found out a few problems in this process that I will discuss in a further post.
